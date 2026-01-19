@@ -1,0 +1,7 @@
+{
+  "name": "NeuralForge ML Portfolio",
+  "description": "A high-performance machine learning portfolio featuring interactive demos, data visualizations, and an integrated AI assistant for exploring complex ML concepts.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
